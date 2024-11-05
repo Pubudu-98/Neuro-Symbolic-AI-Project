@@ -1,0 +1,10 @@
+# Data manipulation
+pandas==1.5.3
+
+# Text processing and NLP
+nltk==3.8.1
+scipy==1.10.1
+scikit-learn==1.2.0
+
+# Model training and evaluation
+scikit-learn==1.2.0
